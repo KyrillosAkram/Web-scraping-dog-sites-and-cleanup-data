@@ -3,7 +3,9 @@
 **Requirements :**
 
 Beautiful Soup    : https://pypi.org/project/beautifulsoup4/
+
 SSL package       : https://pypi.org/project/ssl/
+
 requests package  : https://pypi.org/project/requests/
 
 **Purpose      :**
