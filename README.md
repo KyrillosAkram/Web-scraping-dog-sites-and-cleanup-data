@@ -1,10 +1,13 @@
 # Web-scraping-dog-sites-and-cleanup-data
+
 **Requirements :**
+
 Beautiful Soup    : https://pypi.org/project/beautifulsoup4/
 SSL package       : https://pypi.org/project/ssl/
 requests package  : https://pypi.org/project/requests/
 
 **Purpose      :**
+
 implementation of what i studied 
 task is to extract all the dog data from the following websites:
 
