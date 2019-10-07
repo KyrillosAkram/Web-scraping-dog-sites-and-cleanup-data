@@ -1,5 +1,6 @@
 # Web-scraping-dog-sites-and-cleanup-data
-extract all the dog data from the following websites:
+implementation of what i studied 
+task is to extract all the dog data from the following websites:
 
 www.dogtime.com
 
